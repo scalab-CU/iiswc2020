@@ -1,7 +1,7 @@
 Thank you for submitting your work to IISWC’20. 
 
-Congratulations! [This paper was discussed at the PC meeting and was accepted to appear in the proceedings. Note: if a paper was discussed at PC meeting and the outcome of decided via PC-wide voting. Please mention that in the PC summary, but do not mention the vote count.]  
+Congratulations! [This paper was discussed at the PC meeting and was accepted to appear in the proceedings. Note: if a paper was discussed at the PC meeting and the outcome of decided via PC-wide voting, please mention it in the PC summary, but do not mention the vote count.]  
 
-The reviewers identified multiple positives: ….. The reviewers also recognized multiple areas of improvement: .....
+The reviewers identified multiple positives: .... The reviewers also recognized multiple areas of improvement: ....
 
-The PC strongly encourages authours to incoporate the feedback from the reviewers as they prepare the camera-ready version. We look forward to your presentation at IISWC’20!
+The PC strongly encourages the authors to incorporate the feedback from the reviewers as they prepare the camera-ready version. We look forward to your presentation at IISWC’20!
