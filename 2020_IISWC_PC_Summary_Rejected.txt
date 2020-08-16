@@ -1,0 +1,8 @@
+Thank you for submitting your work to IISWC’20. 
+
+[This paper was discussed at the PC meeting and was not accepted to appear in the proceedings.Note: if a paper was discussed at PC meeting and the outcome of decided via PC-wide voting. Please mention that in the PC summary, but do not mention the vote count.]  
+
+The reviewers identified multiple positives: ….. However, the reviewers also raised multiple serious concerns that prohibited the PC to accept this paper. In particular, ..... [Be sure to mention all identified concerns]. 
+
+[If a particular techincal weakness was discussed more extensively and was considered more serious, please mention that explicitly.]
+The PC hopes that the feedback from individual is useful toward making the paper stronger for future submissions . We look forward to your participtation at IISWC’20!
